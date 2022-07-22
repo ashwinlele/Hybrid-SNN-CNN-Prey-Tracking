@@ -1,0 +1,1 @@
+This folder has files for processing the images capturing in PEDRA. Each file determines whether SNN/CNN or the both SNN+CNN setup is to be used. 
