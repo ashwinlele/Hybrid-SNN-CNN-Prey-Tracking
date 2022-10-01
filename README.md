@@ -11,4 +11,4 @@ PEDRA connects python based SNN and CNN modules developed here with Unreal Engin
 
 Use requirements file to setup the virtual environment. The project is under progress and the files are expected to change as the work progresses. 
 
-Kindly contact Ashwin Lele (alele9@gatech.edu) in case of queries, questions or comments
+Kindly contact Ashwin Lele (alele9@gatech.edu) in case of queries, questions or comments.
